@@ -1,0 +1,19 @@
+.panel {
+	height:100px;
+	overflow:hidden;
+	background-color: lightblue;
+}
+
+.panel-heading {
+	font-weight: bold;
+}
+
+#chicken .panel-heading {
+	background-color:#FF5733;
+}
+#beef .panel-heading {
+	background-color:#935116;
+}
+#sushi .panel-heading {
+	background-color:#FFC300;
+}
